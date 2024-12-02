@@ -1,5 +1,5 @@
 Website Link:
-https://coder024.github.io/SOIB-Earth-Blocks/
+https://dali-97.github.io/soib-earthblocks/
 
 Introduction:
 <b>SOIB Earth Blocks: A Sustainable Building Solution</b>
